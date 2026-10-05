@@ -1,0 +1,8 @@
+{
+  "extensionName": {
+    "message": "Timesheet Interface"
+  },
+  "extensionDescription": {
+    "message": "A clearer timesheet interface for time.12devs.com with history, filters, reports, and personal display settings."
+  }
+}
